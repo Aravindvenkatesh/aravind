@@ -1,6 +1,6 @@
 package car;
 
-public class carexample {
+public class Car {
 
 	 String model;
 	 double speed;
@@ -45,8 +45,8 @@ public class carexample {
     	  Car car1 = new Car();
     	  Car car2 = new Car();
     	  
-    	  Car1.speed = 20.0;
-    	  Car2.speed = 30.0;
+    	  car1.speed = 20.0;
+    	  car2.speed = 30.0;
     	  
     	  System.out.println(car1.speed);
     	  System.out.println(car2.speed);
